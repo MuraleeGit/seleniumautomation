@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29585" started-at="2019-10-06T00:54:02Z" finished-at="2019-10-06T00:54:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29585" started-at="2019-10-06T00:54:02Z" finished-at="2019-10-06T00:54:31Z">
+      <class name="com.qa.dataprovider.FreeCRMTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.dataprovider.FreeCRMTest@71945bc0]" name="setUp" is-config="true" duration-ms="29477" started-at="2019-10-06T00:54:02Z" finished-at="2019-10-06T00:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qa.dataprovider.FreeCRMTest@71945bc0]" name="test" duration-ms="17" started-at="2019-10-06T00:54:31Z" finished-at="2019-10-06T00:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.qa.dataprovider.FreeCRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
